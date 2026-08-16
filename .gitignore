@@ -1,0 +1,28 @@
+# Vivado generated project files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/**/imports/
+*.tmp/
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+webtalk*.jou
+webtalk*.log
+vivado*.jou
+vivado*.log
+
+# Vitis / Eclipse workspace metadata
+workspace/.metadata/
+workspace/*/Debug/
+workspace/*/RemoteSystemsTempFiles/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
