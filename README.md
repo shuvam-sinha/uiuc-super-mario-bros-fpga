@@ -2,7 +2,7 @@
 
 > Collaborative project with [@adjoshi24](https://github.com/adjoshi24).
 
->This repository contains the final files from my ECE 385 project, committed as a single snapshot
+>This repository contains the final files from my ECE 385 project, committed as a single snapshot.
 
 A hardware recreation of side-scrolling Super Mario Bros., targeting the Xilinx Spartan-7 on a RealDigital Urbana board. The game engine lives in SystemVerilog; a MicroBlaze soft processor runs a C firmware layer on top of it.
 
